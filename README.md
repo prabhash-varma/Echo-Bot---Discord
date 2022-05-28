@@ -7,7 +7,7 @@
 
 <br>
 <h2>Installation</h2>
-<p>Add this <b>Echo Bot</b> to your Discord server : <a href="https://discord.com/api/oauth2/authorize?client_id=979797050256400444&permissions=534723947584&scope=bot">Add Bot</a> </p>
+<p>Add this <b>Echo Bot</b> to your Discord server : <a href="https://discord.com/api/oauth2/authorize?client_id=979797050256400444&permissions=534723947584&scope=bot" target="blank">Add Bot</a> </p>
 
 <br>
 <h2>How it works</h2>
